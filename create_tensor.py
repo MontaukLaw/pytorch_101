@@ -54,3 +54,9 @@ print(y)
 #         [0., 2., 0., 0.],
 #         [0., 0., 3., 0.],
 #         [0., 0., 0., 0.]])
+
+print("rand: ")
+# rand(*size, random scope)
+tensor_ran = torch.rand(2, 3)
+print(tensor_ran)
+print(tensor_ran.type())
