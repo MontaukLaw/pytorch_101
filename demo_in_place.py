@@ -21,7 +21,7 @@ print(b)
 print("a+b:")
 print(a + b)
 
-# 随机值看着头晕
+# 随机值看着头晕, 看下面的
 a = torch.Tensor([1, 2, 5])
 b = torch.Tensor([[10], [11]])
 
